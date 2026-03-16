@@ -22,7 +22,7 @@ https://imagify-backend-nsij.onrender.com
 - ⚡ **Smooth UI** – Animations implemented using Framer Motion  
 - 📱 **Responsive Design** – Works across different devices  
 - ☁️ **Cloud Deployment** – Frontend on Vercel, backend on Render
-- 
+ 
 # 🧠 How It Works
 
 1. User enters a **text prompt**.
